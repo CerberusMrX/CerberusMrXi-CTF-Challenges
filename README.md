@@ -19,7 +19,7 @@ This repository is a vibrant collection of original Capture The Flag (CTF) chall
 | 🔑 **CRYPTOGRAPHY** | Cracking ciphers, decryption, hashing, and deep cryptanalysis | [`/Crypto/`](./Crypto/) | ✅ **Active** |
 | 🌐 **WEB** | SQLi, XSS, SSRF, broken authentication, and exploiting modern web apps | [`/Web/`](./Web/) | ✅ **Active** |
 | 🔎 **FORENSICS** | Analyzing data, images, and network traffic | `/Forensics/` | 🚧 **Coming Soon!** |
-| ⚙️ **REVERSE ENGINEERING** | Decompiling and analyzing binaries | `/Reverse/` | 🚧 **Coming Soon!** |
+| ⚙️ **REVERSE ENGINEERING** | Decompiling and analyzing binaries |[`/Reverse/`](./Reverse/)  |✅ **Active** |
 
 ---
 
